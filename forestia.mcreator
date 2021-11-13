@@ -1,0 +1,120 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CatalystDust",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "catalyst_dust"
+    },
+    {
+      "name": "CatalystOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "catalyst_ore"
+    },
+    {
+      "name": "CatalystBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "catalyst_block"
+    },
+    {
+      "name": "CatalystOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "catalyst_ore_block_recipe"
+    },
+    {
+      "name": "CatalystBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "catalyst_block_ore_recipe"
+    },
+    {
+      "name": "CatalystOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "catalyst_ore_smelting"
+    },
+    {
+      "name": "Runestone",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runestone"
+    },
+    {
+      "name": "RunestoneRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runestone_recipe"
+    },
+    {
+      "name": "UltimaGlyph",
+      "type": "painting",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ultima_glyph"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.forestia.catalyst_dust": "Catalyst",
+      "item.forestia.runestone": "Runestone",
+      "block.forestia.catalyst_block": "Block of Catalyst",
+      "block.forestia.catalyst_ore": "Catalyst Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "forestia",
+    "modName": "Forestia",
+    "version": "1.0.0",
+    "author": "nedma, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "pixilart-drawing",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.forestia",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

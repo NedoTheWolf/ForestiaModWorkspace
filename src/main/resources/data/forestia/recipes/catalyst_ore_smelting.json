@@ -1,0 +1,12 @@
+{
+  "group": "forestia",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "forestia:catalyst_ore"
+  },
+  "result": {
+    "item": "forestia:catalyst_dust"
+  }
+}

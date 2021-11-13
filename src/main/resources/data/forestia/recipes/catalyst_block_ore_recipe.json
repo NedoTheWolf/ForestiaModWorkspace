@@ -1,0 +1,13 @@
+{
+  "group": "forestia",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestia:catalyst_block"
+    }
+  ],
+  "result": {
+    "item": "forestia:catalyst_dust",
+    "count": 9
+  }
+}
