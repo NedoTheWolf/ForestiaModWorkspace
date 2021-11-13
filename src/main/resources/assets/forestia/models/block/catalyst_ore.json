@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "forestia:blocks/gold_ore_28texture29_je7_be4",
-    "particle": "forestia:blocks/gold_ore_28texture29_je7_be4"
-  }
-}

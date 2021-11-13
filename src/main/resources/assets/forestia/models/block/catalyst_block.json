@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "forestia:blocks/catalyst_ore_block",
-    "particle": "forestia:blocks/catalyst_ore_block"
-  }
-}
